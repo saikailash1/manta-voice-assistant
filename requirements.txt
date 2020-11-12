@@ -1,0 +1,17 @@
+########### requirements #############
+#### Make sure you have the latest version of python installed ####
+
+Install pip3:
+sudo apt-get install python3-pip
+
+Speech Recognition:
+pip3 install SpeechRecognition
+
+PyAudio:
+pip3 install pyaudio
+sudo apt-get install python3-pyaudio
+
+Install libspeak1 if there is any error while running the code: sudo apt-get install libspeak1
+
+pyttsx3:
+pip3 install pyttsx3
